@@ -10,6 +10,7 @@ html {
 .header {
   display: flex;
   justify-content: center;
+  margin-top: 1rem;
 }
 
 #nav {
@@ -20,13 +21,22 @@ html {
   padding-top: 1rem;
   padding-bottom: 1rem;
   list-style: none;
+  font-family: ;
+}
+
+#header {
+  display: flex;
+  margin-left: 10rem;
+  text-align: center;
+  margin-left: 17rem;
+  margin=top: 2rem;
 }
 
 body {
-  margin: 1% 5% 10% 5%;
-  min-height: 100%;
+  margin: 10% 5% 20% 15%;
+  min-height: 90%;
   background-color: #ddf2f3;
-  max-width: 100%;
+  max-width: 70%;
 }
 
 main {
